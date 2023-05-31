@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 from datetime import datetime
 
 TOPIC_NAME = "Test"
-BROKER_ADDRESS = "188.40.23.247"
+BROKER_ADDRESS = "81.31.170.39"
 
 
 def on_connect(client, userdata, flags, rc):
