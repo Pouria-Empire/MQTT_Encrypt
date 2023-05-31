@@ -3,7 +3,7 @@ from Crypto.Cipher import AES
 from base64 import b64decode
 
 # MQTT settings
-broker = "188.40.23.247"
+broker = "81.31.170.39"
 port = 1883
 topic = "Test"
 
