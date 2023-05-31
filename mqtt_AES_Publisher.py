@@ -4,7 +4,7 @@ from Crypto.Random import get_random_bytes
 from base64 import b64encode
 
 # MQTT settings
-broker = "188.40.23.247"
+broker = "81.31.170.39"
 port = 1883
 topic = "Test"
 
